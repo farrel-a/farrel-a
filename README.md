@@ -1,8 +1,8 @@
 ### Hi there, I'm Farrel 👋
 
 - 🏫 An undergraduate Informatics/Computer Science student at Institut Teknologi Bandung (ITB).
-- 🔭 I’m currently a junior programming crew at Dagozilla ITB Mobile Robot Developer Team.
-- 🤖 I have interest in robotics, automation, and autonomous vehicles.
+- 🔭 I’m currently a Head of Programming Division at Dagozilla ITB Mobile Robot Developer Team.
+- 🤖 I have interest in IoT, robotics, and backend development.
 
 ### Github Stats
 <p align="left">
