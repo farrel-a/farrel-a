@@ -1,7 +1,7 @@
 ### Hi there, I'm Farrel 👋
 
 - 🏫 Undergraduate Informatics/Computer Science student at Institut Teknologi Bandung (ITB).
-- 🔭 Technical advisor at Dagozilla ITB Mobile Robot Developer Team.
+- 🔭 Actively researching and developing software for robotics.
 - 🤖 Interest in IoT, robotics, and backend development.
 
 ### Github Stats
@@ -14,9 +14,9 @@
 
 ### Skills
 
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
