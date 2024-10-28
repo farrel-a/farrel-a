@@ -1,8 +1,8 @@
 ### Hi there, I'm Farrel 👋
 
-- 🏫 Undergraduate Informatics/Computer Science student at Institut Teknologi Bandung (ITB).
+- 🏫 Bachelor of Informatics/Computer Science at Institut Teknologi Bandung (ITB).
 - 🔭 Actively researching and developing software for robotics.
-- 🤖 Interest in IoT, robotics, and backend development.
+- 🤖 Interest in robotics, IoT, and backend development.
 
 ### Github Stats
 <p align="left">
