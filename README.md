@@ -1,7 +1,7 @@
 ### Hi there, I'm Farrel 👋
 
-- 🏫 Bachelor of Engineering in Informatics/Computer Science at Institut Teknologi Bandung (ITB).
-- 🔭 Actively researching and developing software for robotics.
+- ⚙️ Robotics engineer based in Tokyo.
+- 🔭 Actively researching and developing software for robots.
 - 🤖 Interest in robotics, IoT, and backend development.
 
 ### Github Stats
